@@ -1,0 +1,106 @@
+# Privacy Policy - Meme Lab Karma Casino
+
+**Last Updated:** October 15, 2025
+
+## 1. Introduction
+
+This Privacy Policy explains how Meme Lab Karma Casino ("the App") collects, uses, and protects your information when you use our Reddit Devvit application.
+
+## 2. Information We Collect
+
+### Automatically Collected Information
+- **Reddit Username:** Your Reddit username is collected to identify you in the game
+- **Game Data:** Karma Points balance, game statistics, meme creations, and leaderboard positions
+- **Interaction Data:** Spin history, daily bonus claims, and game activity
+
+### User-Provided Information
+- **Meme Content:** Text and images you create using the meme generator
+- **Game Choices:** Your selections and actions within the App
+
+## 3. How We Use Your Information
+
+We use collected information to:
+- Provide and maintain the gaming experience
+- Track your Karma Points and game progress
+- Display leaderboards and statistics
+- Prevent abuse and ensure fair gameplay
+- Improve the App's features and performance
+
+## 4. Data Storage
+
+- All data is stored using Reddit's secure infrastructure (Redis)
+- Data is associated with your Reddit username
+- Game data persists across sessions within the subreddit
+- We do not store data outside of Reddit's platform
+
+## 5. Data Sharing
+
+We do NOT:
+- Sell your personal information
+- Share your data with third parties
+- Use your data for advertising
+- Transfer data outside of Reddit's platform
+
+Your game data IS visible to:
+- Other users in the subreddit (leaderboards, public memes)
+- Subreddit moderators (as part of Reddit's standard permissions)
+
+## 6. Data Retention
+
+- Game data is retained as long as the App is active in the subreddit
+- Moderators may reset game data if needed
+- If the App is removed from a subreddit, associated data may be deleted
+
+## 7. Your Rights
+
+You have the right to:
+- Stop using the App at any time
+- Request information about your stored data
+- Contact subreddit moderators about data concerns
+- Delete your Reddit account (which removes your data from the App)
+
+## 8. Children's Privacy
+
+The App is intended for users 13 years and older, consistent with Reddit's age requirements. We do not knowingly collect information from children under 13.
+
+## 9. Security
+
+We implement reasonable security measures:
+- Data is stored securely using Reddit's infrastructure
+- Access controls prevent unauthorized data access
+- Rate limiting prevents abuse
+
+However, no system is 100% secure. Use the App at your own risk.
+
+## 10. Reddit's Privacy Policy
+
+This App operates within Reddit's platform. Reddit's Privacy Policy also applies:
+https://www.reddit.com/policies/privacy-policy
+
+## 11. Changes to This Policy
+
+We may update this Privacy Policy. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+## 12. Third-Party Services
+
+The App uses:
+- **Reddit Devvit Platform:** Subject to Reddit's privacy policies
+- **Reddit API:** For user authentication and data storage
+
+## 13. Contact Information
+
+For privacy concerns or questions:
+- Contact the app developer through Reddit
+- Contact subreddit moderators where the App is installed
+- Review Reddit's privacy resources
+
+## 14. Compliance
+
+This App complies with:
+- Reddit's Developer Terms
+- Reddit's Privacy Policy
+- Applicable data protection regulations
+
+---
+
+By using Meme Lab Karma Casino, you acknowledge that you have read and understood this Privacy Policy.
